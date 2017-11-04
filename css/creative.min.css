@@ -6,3 +6,7 @@
  .fa{
  	color:black;
  }
+
+ul#menu li {
+    display:inline;
+}
